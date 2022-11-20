@@ -21,6 +21,7 @@ body {
 }
 
 .header h1 .seo {
+    font-style: normal;
     color: #d9dcd6;
 }
 
@@ -59,6 +60,12 @@ p {
     background-position: center;
 }
 
+.background-image {
+    height: 950px;
+    width: 100%;
+    margin-bottom: 25px;
+}
+    
 .float-left {
     float: left;
     margin-right: 25px;
