@@ -1,2 +1,14 @@
 # Horiseon-Code-Refactor
-A refactor of the Horiseon code that meets accessibility standards
+
+The source code for the website representing the digital marketing company Horiseon originally contained few semantic elements, did not use sequential header elements, and did not contain alt text for images. The code has been refactored to contain the following:
+
+-Semantic elements in the HTML document such as <body>,<header>,<nav>, <main>, <section>, <a>, <p>, <img>, and <footer>
+-HTML elements that flow in a logical order
+-Header elements that are in sequential order
+-Alt text for the images in the main content area of the page
+-A clear and concise title for the page
+
+In addition to the above items, the CSS file has also been edited to consolidate repetitive or unecessary code, while keeping the look of the website exactly the same. 
+
+These changes will allow the Horiseon website to be more accessible, as well as improving search engine optimization.
+
