@@ -12,3 +12,4 @@ In addition to the above items, the CSS file has also been edited to consolidate
 
 These changes will allow the Horiseon website to be more accessible, as well as improving search engine optimization.
 
+Deployed site: <link https://hopemansfield.github.io/Horiseon-Code-Refactor/>
