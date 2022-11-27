@@ -2,7 +2,7 @@
 
 The source code for the website representing the digital marketing company Horiseon originally contained few semantic elements, did not use sequential header elements, and did not contain alt text for images. The code has been refactored to contain the following:
 
--Semantic elements in the HTML document such as <body>,<header>,<nav>, <main>, <section>, <a>, <p>, <img>, and <footer>
+-Semantic elements in the HTML file such as body, header, nav, a, p, section, img, and footer
 -HTML elements that flow in a logical order
 -Header elements that are in sequential order
 -Alt text for the images in the main content area of the page
