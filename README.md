@@ -14,5 +14,6 @@ These changes will allow the Horiseon website to be more accessible, as well as 
 
 Deployed site: https://hopemansfield.github.io/Horiseon-Code-Refactor/
 
-(https://user-images.githubusercontent.com/116748007/204160999-b2cbc961-7721-48bf-883b-4f9f94df840d.png)
+![hopemansfield github io_Horiseon-Code-Refactor](https://user-images.githubusercontent.com/116748007/204161062-7a7836b1-2c87-4b70-b53d-2288888e0793.png)
+
 
